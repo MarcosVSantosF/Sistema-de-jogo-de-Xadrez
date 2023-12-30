@@ -69,6 +69,16 @@ public class PartidaDeXadrez
             xeque = false;
         }
 
+        if(testeXequemate(adversaria(jogadorAtual)))
+        {
+            terminada = true;
+        }
+        else
+        {
+            turno++;
+            mudaJogador();
+        }
+
         turno++;
         mudaJogador();
     }
@@ -164,7 +174,7 @@ public class PartidaDeXadrez
         Peca R = rei(cor);
         if(R == null)
         {
-            throw new TabuleiroException("Nçao tem rei da cor" + cor + "no tabuleiro");
+            throw new TabuleiroException("Não tem rei da cor " + cor + "no tabuleiro");
         }
         foreach(Peca x in pecasEmJogo(adversaria(cor)))
         {
@@ -175,6 +185,39 @@ public class PartidaDeXadrez
             }
         }
         return false;
+    }
+
+    public bool testeXequemate(Cor cor)
+    {
+        if(!estaEmXeque(cor))
+        {
+            return false;
+        }
+
+        foreach(Peca x in pecasEmJogo(cor))
+        {
+            bool[,] mat = x.movimentosPossiveis();
+            for(int i = 0; i < tab.linhas; i++)
+            {
+                for(int j = 0; j < tab.colunas; j++)
+                {
+                    if(mat[i,j])
+                    {
+                        Posicao origem = x.posicao;
+                        Posicao destino = new Posicao(i, j);
+                        Peca pecaCapturada = executaMovimento(origem, destino);
+                        bool testeXeque = estaEmXeque(cor);
+                        desfazMovimento(origem, destino, pecaCapturada );
+
+                        if(!testeXeque)
+                        {
+                            return false;
+                        }
+                    }
+                }
+            }
+        }
+        return true;
     }
     public void colocarNovaPeca(char coluna, int linha, Peca peca)
     {

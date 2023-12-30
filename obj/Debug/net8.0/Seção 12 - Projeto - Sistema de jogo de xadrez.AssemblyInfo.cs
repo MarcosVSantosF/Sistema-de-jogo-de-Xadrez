@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seção 12 - Projeto - Sistema de jogo de xadrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21095f85dd822e70479750596d53cec812159644")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cea6b1864329aef7c408507824686c7445aebe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seção 12 - Projeto - Sistema de jogo de xadrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seção 12 - Projeto - Sistema de jogo de xadrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
