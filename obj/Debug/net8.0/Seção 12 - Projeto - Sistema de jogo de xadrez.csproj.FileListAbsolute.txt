@@ -1,17 +1,5 @@
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.exe
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.deps.json
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.runtimeconfig.json
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.pdb
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.AssemblyInfoInputs.cache
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.AssemblyInfo.cs
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.csproj.CoreCompileInputs.cache
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\refint\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.pdb
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.genruntimeconfig.cache
-C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\ref\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.exe
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.deps.json
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.runtimeconfig.json
@@ -26,3 +14,15 @@ C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.pdb
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.genruntimeconfig.cache
 C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\Meu Projeto\obj\Debug\net8.0\ref\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.deps.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.runtimeconfig.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\bin\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.AssemblyInfo.cs
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\refint\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\Seção 12 - Projeto - Sistema de jogo de xadrez.genruntimeconfig.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 12 - Projeto - Sistema de jogo de xadrez\obj\Debug\net8.0\ref\Seção 12 - Projeto - Sistema de jogo de xadrez.dll
