@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Seção 12 - Projeto - Sistema de jogo de xadrez/1.0.0": {
+        "runtime": {
+          "Seção 12 - Projeto - Sistema de jogo de xadrez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seção 12 - Projeto - Sistema de jogo de xadrez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
